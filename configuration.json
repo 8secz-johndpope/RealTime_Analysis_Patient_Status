@@ -1,0 +1,10 @@
+{
+  "Tools": {
+      "Rekognition": [
+          {"action":"StatusAnalysis"}
+      ],
+      "YOLO": [
+          {"action":"SceneAnalysis"}
+      ]
+  }
+}
